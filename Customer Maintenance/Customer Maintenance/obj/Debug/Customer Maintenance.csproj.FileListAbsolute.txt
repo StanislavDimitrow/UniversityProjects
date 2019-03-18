@@ -1,0 +1,12 @@
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\bin\Debug\Customer Maintenance.exe.config
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\bin\Debug\Customer Maintenance.exe
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\bin\Debug\Customer Maintenance.pdb
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\obj\Debug\Customer Maintenance.csprojResolveAssemblyReference.cache
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\obj\Debug\Customer_Maintenance.Form1.resources
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\obj\Debug\Customer_Maintenance.Properties.Resources.resources
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\obj\Debug\Customer Maintenance.csproj.GenerateResource.Cache
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\obj\Debug\Customer Maintenance.exe
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\obj\Debug\Customer Maintenance.pdb
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\obj\Debug\Customer_Maintenance.WorkerForm.resources
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\obj\Debug\Customer_Maintenance.CustomerForm.resources
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\Customer Maintenance\Customer Maintenance\obj\Debug\Customer_Maintenance.JobDetails.resources
