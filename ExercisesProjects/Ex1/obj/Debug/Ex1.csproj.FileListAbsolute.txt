@@ -1,0 +1,6 @@
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\Ex1\bin\Debug\Ex1.exe.config
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\Ex1\bin\Debug\Ex1.exe
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\Ex1\bin\Debug\Ex1.pdb
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\Ex1\obj\Debug\Ex1.exe
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\Ex1\obj\Debug\Ex1.pdb

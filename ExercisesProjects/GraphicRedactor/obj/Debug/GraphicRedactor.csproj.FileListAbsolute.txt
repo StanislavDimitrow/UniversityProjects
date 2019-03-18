@@ -1,0 +1,9 @@
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\GraphicRedactor\bin\Debug\GraphicRedactor.exe.config
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\GraphicRedactor\bin\Debug\GraphicRedactor.exe
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\GraphicRedactor\bin\Debug\GraphicRedactor.pdb
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\GraphicRedactor\obj\Debug\GraphicRedactor.csprojResolveAssemblyReference.cache
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\GraphicRedactor\obj\Debug\GraphicRedactor.formMain.resources
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\GraphicRedactor\obj\Debug\GraphicRedactor.Properties.Resources.resources
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.GenerateResource.Cache
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\GraphicRedactor\obj\Debug\GraphicRedactor.exe
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\ExercisesProjects\GraphicRedactor\obj\Debug\GraphicRedactor.pdb
