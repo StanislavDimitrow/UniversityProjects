@@ -1,0 +1,9 @@
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\CourseWorkSequenceDiagram\CourseWorkSequenceDiagram\bin\Debug\CourseWorkSequenceDiagram.exe.config
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\CourseWorkSequenceDiagram\CourseWorkSequenceDiagram\bin\Debug\CourseWorkSequenceDiagram.exe
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\CourseWorkSequenceDiagram\CourseWorkSequenceDiagram\bin\Debug\CourseWorkSequenceDiagram.pdb
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\CourseWorkSequenceDiagram\CourseWorkSequenceDiagram\obj\Debug\CourseWorkSequenceDiagram.csprojResolveAssemblyReference.cache
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\CourseWorkSequenceDiagram\CourseWorkSequenceDiagram\obj\Debug\CourseWorkSequenceDiagram.Properties.Resources.resources
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\CourseWorkSequenceDiagram\CourseWorkSequenceDiagram\obj\Debug\CourseWorkSequenceDiagram.csproj.GenerateResource.Cache
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\CourseWorkSequenceDiagram\CourseWorkSequenceDiagram\obj\Debug\CourseWorkSequenceDiagram.exe
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\CourseWorkSequenceDiagram\CourseWorkSequenceDiagram\obj\Debug\CourseWorkSequenceDiagram.pdb
+D:\RYSENSKI YNIVERSITET\4 kyrs\4 kyrs 1 sem\Integrated Development Environments (IDE)\CourseWorkSequenceDiagram\CourseWorkSequenceDiagram\obj\Debug\CourseWorkSequenceDiagram.mainForm.resources
