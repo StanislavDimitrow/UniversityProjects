@@ -1,0 +1,18 @@
+D:\Programming languages\CSharp\KZ\KZDKursWork\KZDKursWork\bin\Debug\KZDKursWork.exe.config
+D:\Programming languages\CSharp\KZ\KZDKursWork\KZDKursWork\bin\Debug\KZDKursWork.exe
+D:\Programming languages\CSharp\KZ\KZDKursWork\KZDKursWork\bin\Debug\KZDKursWork.pdb
+D:\Programming languages\CSharp\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.csprojResolveAssemblyReference.cache
+D:\Programming languages\CSharp\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZ_hill_row.Form1.resources
+D:\Programming languages\CSharp\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.Properties.Resources.resources
+D:\Programming languages\CSharp\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.csproj.GenerateResource.Cache
+D:\Programming languages\CSharp\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.exe
+D:\Programming languages\CSharp\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.pdb
+D:\RYSENSKI YNIVERSITET\3 kyrs\3 kyrs 2 sem\Kriptografiq i zasht. na danni\KZStanislav153133\KZ\KZDKursWork\KZDKursWork\bin\Debug\KZDKursWork.exe.config
+D:\RYSENSKI YNIVERSITET\3 kyrs\3 kyrs 2 sem\Kriptografiq i zasht. na danni\KZStanislav153133\KZ\KZDKursWork\KZDKursWork\bin\Debug\KZDKursWork.exe
+D:\RYSENSKI YNIVERSITET\3 kyrs\3 kyrs 2 sem\Kriptografiq i zasht. na danni\KZStanislav153133\KZ\KZDKursWork\KZDKursWork\bin\Debug\KZDKursWork.pdb
+D:\RYSENSKI YNIVERSITET\3 kyrs\3 kyrs 2 sem\Kriptografiq i zasht. na danni\KZStanislav153133\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.csprojResolveAssemblyReference.cache
+D:\RYSENSKI YNIVERSITET\3 kyrs\3 kyrs 2 sem\Kriptografiq i zasht. na danni\KZStanislav153133\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZ_hill_row.Form1.resources
+D:\RYSENSKI YNIVERSITET\3 kyrs\3 kyrs 2 sem\Kriptografiq i zasht. na danni\KZStanislav153133\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.Properties.Resources.resources
+D:\RYSENSKI YNIVERSITET\3 kyrs\3 kyrs 2 sem\Kriptografiq i zasht. na danni\KZStanislav153133\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.csproj.GenerateResource.Cache
+D:\RYSENSKI YNIVERSITET\3 kyrs\3 kyrs 2 sem\Kriptografiq i zasht. na danni\KZStanislav153133\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.exe
+D:\RYSENSKI YNIVERSITET\3 kyrs\3 kyrs 2 sem\Kriptografiq i zasht. na danni\KZStanislav153133\KZ\KZDKursWork\KZDKursWork\obj\Debug\KZDKursWork.pdb
